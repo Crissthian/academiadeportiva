@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|f:\\salvatore\\cursos\\desarrollo de aplicaciones 1\\parcial\\academiadeportes_3capas\\academiadeportes_gui\\instructorprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\instructorprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\instructorprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\instructorprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\estudianteman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\estudianteman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\estudianteman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\estudianteman01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E7AF7E-A264-43C4-917F-FCB5C8431C64}|AcademiaDeportes_BL\\AcademiaDeportes_BL.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_bl\\estudiantebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E7AF7E-A264-43C4-917F-FCB5C8431C64}|AcademiaDeportes_BL\\AcademiaDeportes_BL.csproj|solutionrelative:academiadeportes_bl\\estudiantebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E7AF7E-A264-43C4-917F-FCB5C8431C64}|AcademiaDeportes_BL\\AcademiaDeportes_BL.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_bl\\instructorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7E7AF7E-A264-43C4-917F-FCB5C8431C64}|AcademiaDeportes_BL\\AcademiaDeportes_BL.csproj|solutionrelative:academiadeportes_bl\\instructorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\actualizarsede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\actualizarsede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\estudianteman03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\estudianteman03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\estudianteman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\estudianteman02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\instructoragregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\instructoragregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\instructoractualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\instructoractualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\sedeleer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\sedeleer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\instructoragregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\instructoragregar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\instructoractualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\instructoractualizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\insertarsede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\insertarsede.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\academiadeportes_gui\\estudianteman03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3146D53-2773-44EB-B228-DBD6BD24209A}|AcademiaDeportes_GUI\\AcademiaDeportes_GUI.csproj|solutionrelative:academiadeportes_gui\\estudianteman03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InstructorPrincipal.cs",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorPrincipal.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\InstructorPrincipal.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorPrincipal.cs",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\InstructorPrincipal.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAADwv3wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:25:38.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudianteMan01.cs",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan01.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\EstudianteMan01.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan01.cs",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\EstudianteMan01.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:25:07.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudianteBL.cs",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_BL\\EstudianteBL.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_BL\\EstudianteBL.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_BL\\EstudianteBL.cs",
+              "RelativeToolTip": "AcademiaDeportes_BL\\EstudianteBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T01:24:52.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InstructorAgregar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorAgregar.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\InstructorAgregar.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorAgregar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\InstructorAgregar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:32:10.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EstudianteMan02.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan02.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\EstudianteMan02.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan02.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\EstudianteMan02.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:45:15.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstudianteMan03.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan03.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\EstudianteMan03.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan03.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\EstudianteMan03.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:47:05.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActualizarSede.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\ActualizarSede.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\ActualizarSede.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\ActualizarSede.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\ActualizarSede.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:40:39.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InstructorBL.cs",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_BL\\InstructorBL.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_BL\\InstructorBL.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_BL\\InstructorBL.cs",
+              "RelativeToolTip": "AcademiaDeportes_BL\\InstructorBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:05:07.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudianteMan01.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan01.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\EstudianteMan01.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan01.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\EstudianteMan01.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:44:23.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructorPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorPrincipal.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\InstructorPrincipal.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\InstructorPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:44:14.901Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InstructorActualizar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorActualizar.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\InstructorActualizar.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorActualizar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\InstructorActualizar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:50:31.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InstructorAgregar.cs",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorAgregar.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\InstructorAgregar.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorAgregar.cs",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\InstructorAgregar.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAkwH4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:43:36.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SedeLeer.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\SedeLeer.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\SedeLeer.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\SedeLeer.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\SedeLeer.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:44:18.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\Principal.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\Principal.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:44:21.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InstructorActualizar.cs",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorActualizar.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\InstructorActualizar.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InstructorActualizar.cs",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\InstructorActualizar.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAkwIoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:42:07.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InsertarSede.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InsertarSede.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\InsertarSede.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\InsertarSede.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\InsertarSede.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:40:54.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EstudianteMan03.cs",
+              "DocumentMoniker": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan03.cs",
+              "RelativeDocumentMoniker": "AcademiaDeportes_GUI\\EstudianteMan03.cs",
+              "ToolTip": "F:\\Salvatore\\Cursos\\Desarrollo de Aplicaciones 1\\Parcial\\AcademiaDeportes_3Capas\\AcademiaDeportes_GUI\\EstudianteMan03.cs",
+              "RelativeToolTip": "AcademiaDeportes_GUI\\EstudianteMan03.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAkwI0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:38:58.506Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

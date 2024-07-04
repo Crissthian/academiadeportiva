@@ -1,0 +1,196 @@
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.exe
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll.config
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.deps.json
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.runtimeconfig.json
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.AssemblyReference.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.GenerateResource.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfoInputs.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfo.cs
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.CoreCompileInputs.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\Academia.9D0C41A4.Up2Date
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\refint\AcademiaDeportes_GUI.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.genruntimeconfig.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\ref\AcademiaDeportes_GUI.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan01.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan02.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan03.resources
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.exe
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll.config
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.deps.json
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.runtimeconfig.json
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.pdb
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.pdb
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.pdb
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan01.resources
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan02.resources
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan03.resources
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.GenerateResource.cache
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfoInputs.cache
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfo.cs
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\Academia.9D0C41A4.Up2Date
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\refint\AcademiaDeportes_GUI.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.genruntimeconfig.cache
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\ref\AcademiaDeportes_GUI.dll
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.Principal.resources
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.SedeLeer.resources
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InsertarSede.resources
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.ActualizarSede.resources
+C:\Users\kevin\Downloads\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.exe
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll.config
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.deps.json
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.runtimeconfig.json
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.pdb
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.pdb
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.pdb
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.ActualizarSede.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan01.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan02.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan03.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InsertarSede.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.Principal.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.SedeLeer.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\Academia.9D0C41A4.Up2Date
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\refint\AcademiaDeportes_GUI.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\ref\AcademiaDeportes_GUI.dll
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InstructorActualizar.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InstructorAgregar.resources
+C:\Users\USUARIO\Desktop\DA-1 - Daniel\proyecto de grupo\PARCIAL-1619\PARCIAL-1619\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InstructorPrincipal.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.exe
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll.config
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.deps.json
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.runtimeconfig.json
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.AssemblyReference.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.ActualizarSede.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan01.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan02.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan03.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InsertarSede.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InstructorActualizar.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InstructorAgregar.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InstructorPrincipal.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.Principal.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.Properties.Resources.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.SedeLeer.resources
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.GenerateResource.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfoInputs.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfo.cs
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.CoreCompileInputs.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\Academia.9D0C41A4.Up2Date
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\refint\AcademiaDeportes_GUI.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.genruntimeconfig.cache
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\ref\AcademiaDeportes_GUI.dll
+F:\Salvatore\Cursos\Desarrollo de Aplicaciones 1\Parcial\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.frmLogin.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.exe
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll.config
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.deps.json
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.runtimeconfig.json
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BE.pdb
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_BL.pdb
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\bin\Debug\net8.0-windows\AcademiaDeportes_ADO.pdb
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.AssemblyReference.cache
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.ActualizarSede.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan01.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan02.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.EstudianteMan03.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.frmLogin.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InsertarSede.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InstructorActualizar.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InstructorAgregar.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.InstructorPrincipal.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.Principal.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.Properties.Resources.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.SedeLeer.resources
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.GenerateResource.cache
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfoInputs.cache
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.AssemblyInfo.cs
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.csproj.CoreCompileInputs.cache
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\Academia.9D0C41A4.Up2Date
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\refint\AcademiaDeportes_GUI.dll
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.pdb
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\AcademiaDeportes_GUI.genruntimeconfig.cache
+C:\Users\criss\Documents\Tareas\Csharp\AcademiaDeportes\AcademiaDeportes_3Capas\AcademiaDeportes_GUI\obj\Debug\net8.0-windows\ref\AcademiaDeportes_GUI.dll
